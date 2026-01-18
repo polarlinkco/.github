@@ -1,27 +1,53 @@
 # PolarLink
 
-**Bridging the Physical and Digital Worlds Through Intelligent Systems**
+**End-to-End Physical AI Solutions — From Silicon to Product**
 
 ---
 
 ## Who We Are
 
-PolarLink is a Physical AI company at the intersection of robotics and silicon design. We develop intelligent systems that seamlessly connect the physical world with advanced computational capabilities, enabling machines to perceive, reason, and act with unprecedented precision.
+PolarLink is a Physical AI company delivering **vertically integrated solutions** across the entire technology stack. From custom silicon design to intelligent software and final robotic products, we own every layer of the stack—enabling unmatched optimization, seamless integration, and rapid innovation.
+
+## Our Vertical Approach
+
+What sets PolarLink apart is our ability to deliver complete solutions without relying on fragmented supply chains or third-party dependencies.
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                    FINAL PRODUCT                        │
+│              Intelligent Robotic Systems                │
+├─────────────────────────────────────────────────────────┤
+│                     SOFTWARE                            │
+│    Applications · AI/ML · Firmware · Cloud Platform     │
+├─────────────────────────────────────────────────────────┤
+│                     HARDWARE                            │
+│       Mechanical Design · Electronics · Sensors         │
+├─────────────────────────────────────────────────────────┤
+│                      SILICON                            │
+│         Custom Chips · Edge AI Accelerators             │
+└─────────────────────────────────────────────────────────┘
+```
 
 ## What We Do
 
-### 🤖 Robotics
-We design and build robotic systems that leverage cutting-edge AI to navigate complex real-world environments. Our robots are engineered for reliability, adaptability, and seamless integration into existing workflows.
+### 💻 Software Development
+We build the intelligent software that powers our systems—from low-level firmware and device drivers to AI/ML pipelines, robotics middleware, and cloud platforms. Our software engineers work hand-in-hand with hardware teams to squeeze every ounce of performance from our custom silicon.
 
 ### 🔬 Silicon Design
-Our custom silicon solutions are optimized for edge AI applications, delivering the computational power needed for real-time decision-making while maintaining energy efficiency. We create purpose-built hardware that brings intelligence directly to the point of action.
+Our custom chips are purpose-built for edge AI applications, delivering exceptional performance-per-watt for real-time inference and control. By designing our own silicon, we achieve optimizations impossible with off-the-shelf solutions.
+
+### 🤖 Robotics & Hardware
+We design and manufacture robotic systems engineered for reliability in real-world environments. Our hardware integrates seamlessly with our software stack and custom silicon, creating cohesive products rather than assembled components.
 
 ### 🧠 Physical AI
-At the core of everything we do is Physical AI—the fusion of advanced machine learning with real-world actuation. We're building the foundation for a future where intelligent machines work alongside humans to solve the world's most challenging problems.
+At the core of everything is Physical AI—the fusion of machine learning with real-world actuation. Our vertical integration allows us to optimize AI models specifically for our silicon, deploy them through our software stack, and execute them on our robotic hardware.
 
-## Our Vision
+## Why Vertical Integration Matters
 
-We believe the next frontier of AI lies not in the cloud, but at the edge—where silicon meets steel, and algorithms become action. PolarLink is building the infrastructure for this future, one intelligent system at a time.
+- **Performance**: Hardware-software co-design enables optimizations impossible with off-the-shelf components
+- **Speed**: No waiting on third-party vendors—we iterate across the entire stack
+- **Quality**: End-to-end ownership means end-to-end accountability
+- **Innovation**: Breakthroughs at any layer can be instantly leveraged across the product
 
 ## Connect With Us
 
@@ -32,5 +58,5 @@ We believe the next frontier of AI lies not in the cloud, but at the edge—wher
 ---
 
 <p align="center">
-  <strong>Building the future of Physical AI</strong>
+  <strong>From silicon to software to product — we build it all.</strong>
 </p>
